@@ -23,7 +23,7 @@ SECRET_KEY = 'django-insecure-c9+=12*xwla#jx@vvnvs7y*+pyg(h1zq#pu3h(pl4b=wxx6574
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','https://avangardi-back.herokuapp.com/,avangardi-back.herokuapp.com']
 
 REST_FRAMEWORK = {
     # Use Django's standard `django.contrib.auth` permissions,
